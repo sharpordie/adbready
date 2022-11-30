@@ -1,7 +1,7 @@
 <hr><div>
 <a href="../.."><img align="right" height="91" src="https://user-images.githubusercontent.com/72373746/202394839-d673c37b-e9a7-4c31-ad0a-04cdc9e51308.png" alt="logo"></a>
 <h1>adbready</h1>
-<p>Android ADB ready for Flutter</p>
+<p>Android ADB Ready for Flutter</p>
 </div><hr>
 
 ## `Support`
