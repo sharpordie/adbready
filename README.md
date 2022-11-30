@@ -39,7 +39,7 @@ flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 final starter = await Adbready().deploy();
 ```
 
-### Gather Product Model from Remote Device
+### Gather Product Model from Device
 
 ```dart
 final address = '192.168.1.10'; // Address of the target device.
