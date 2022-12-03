@@ -4,11 +4,13 @@
 <p>Android ADB Ready for Flutter</p>
 </div><hr>
 
-## `Support`
+## PREFACE
+
+Provide ADB binary compiled for Android as library.
 
 <table>
   <tr>
-    <td><samp>AND</samp></td>
+    <th><samp>AND</samp></th>
     <th><samp>IOS</samp></th>
     <th><samp>LIN</samp></th>
     <th><samp>MAC</samp></th>
@@ -16,22 +18,22 @@
     <th><samp>WEB</samp></th>
   </tr>
   <tr align="center">
-    <td width="50"><samp>✅</samp></td>
-    <td width="50"><samp>⛔</samp></td>
-    <td width="50"><samp>⛔</samp></td>
-    <td width="50"><samp>⛔</samp></td>
-    <td width="50"><samp>⛔</samp></td>
-    <td width="50"><samp>⛔</samp></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/d1ff82/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ff8c82/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ff8c82/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ff8c82/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ff8c82/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ff8c82/fff//?text=‏‏‎ ‎"></p></td>
   </tr>
 </table>
 
-## `Install`
+## PREVIEW
+
+### Install Package from Git
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 ```
-
-## `Samples`
 
 ### Gather ADB Path
 
