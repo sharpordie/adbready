@@ -6,7 +6,7 @@
 
 ## PREFACE
 
-Provide ADB binary compiled for Android as library.
+Library providing the ADB binary compiled for Android.
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ final starter = await Adbready().deploy();
 ### Gather Product Model from Device
 
 ```dart
-final address = '192.168.1.10'; // Address of the target device.
+final address = '192.168.1.10';
 final command = ['-s', address, 'shell', 'getprop ro.product.model'];
 final process = await Adbready().invoke(command)
 final product = process.stdout;
