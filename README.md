@@ -6,7 +6,7 @@
 
 ## PREFACE
 
-Library providing the ADB binary compiled for Android.
+Provide ready to use ADB binary for Android.
 
 <table>
   <tr>
