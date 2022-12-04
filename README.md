@@ -29,7 +29,7 @@ Provide ready to use ADB binary for Android.
 
 ## PREVIEW
 
-### Install Package from Git
+### Update Package from Git
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
