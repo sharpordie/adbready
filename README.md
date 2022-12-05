@@ -1,5 +1,5 @@
 <hr><div>
-<a href="../.."><img align="right" height="94" src="https://raw.githubusercontent.com/sharpordie/adbready/HEAD/assets/logo.png"></a>
+<a href="../.."><img align="right" height="94" src="assets/logo.png"></a>
 <h1><code>ADBREADY</code></h1>
 <p>Android ADB Ready for Flutter</p>
 </div><hr>
