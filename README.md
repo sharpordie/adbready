@@ -1,14 +1,14 @@
 <hr><div>
-<a href="../.."><img align="right" height="94" src="assets/logo.png"></a>
-<h1><code>ADBREADY</code></h1>
+<a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
+<h1>ADBREADY</h1>
 <p>Android ADB Ready for Flutter</p>
 </div><hr>
 
-## `OVERVIEW`
+<h2><samp>OVERVIEW</samp></h2>
 
 Provide ready to use ADB binary for Android.
 
-## `COVERAGE`
+<h2><samp>COVERAGE</samp></h2>
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ Provide ready to use ADB binary for Android.
   </tr>
 </table>
 
-## `EXAMPLES`
+<h2><samp>EXAMPLES</samp></h2>
 
 ### Update Package from Git
 
