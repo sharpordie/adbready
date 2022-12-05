@@ -8,6 +8,8 @@
 
 Provide ready to use ADB binary for Android.
 
+## `COVERAGE`
+
 <table>
   <tr>
     <th><samp>AND</samp></th>
