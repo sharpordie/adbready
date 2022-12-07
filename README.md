@@ -1,8 +1,8 @@
-<hr><div>
+<div><hr>
 <a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
 <h1>ADBREADY</h1>
 <p>Android ADB Ready for Flutter</p>
-</div><hr>
+<hr></div>
 
 <h2><samp>OVERVIEW</samp></h2>
 
@@ -55,3 +55,5 @@ final command = ['-s', address, 'shell', 'getprop ro.product.model'];
 final process = await Adbready().invoke(command)
 final product = process.stdout;
 ```
+
+Check out [the unit tests](tests) for more examples.
