@@ -26,9 +26,9 @@ Provide ready to use ADB binary for Android.
   <tr align="center">
     <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
     <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
-    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
-    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
-    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
     <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
   </tr>
 </table>
