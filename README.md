@@ -14,6 +14,25 @@ Provide ready to use ADB binary for Android.
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>✅<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> |
 
+<table>
+  <tr>
+    <th><samp>AND</samp></th>
+    <th><samp>IOS</samp></th>
+    <th><samp>LIN</samp></th>
+    <th><samp>MAC</samp></th>
+    <th><samp>WIN</samp></th>
+    <th><samp>WEB</samp></th>
+  </tr>
+  <tr align="center">
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/9bdb4d/fff//?text=‏‏‎ ‎"></p></td>
+    <td width="55"><p><br><img src="https://fakeimg.pl/30x30/ed5353/fff//?text=‏‏‎ ‎"></p></td>
+  </tr>
+</table>
+
 <h2><samp>EXAMPLES</samp></h2>
 
 ### Update Package from Git
