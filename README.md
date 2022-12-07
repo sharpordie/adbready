@@ -57,3 +57,5 @@ final command = ['-s', address, 'shell', 'getprop ro.product.model'];
 final process = await Adbready().invoke(command)
 final product = process.stdout;
 ```
+
+Check out [the unit tests](tests) for more examples.
