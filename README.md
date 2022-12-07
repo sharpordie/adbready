@@ -58,4 +58,4 @@ final process = await Adbready().invoke(command)
 final product = process.stdout;
 ```
 
-<div><hr></div>
+<hr>
