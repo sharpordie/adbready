@@ -10,11 +10,9 @@ Provide ready to use ADB binary for Android.
 
 <h2><samp>COVERAGE</samp></h2>
 
-<!--
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| <br>✅<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> | <br>🚫<br><br> |
--->
+| <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
 
 <table>
   <tr>
