@@ -1,15 +1,3 @@
-<!--
-<div><hr>
-<a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
-<h1>ADBREADY</h1>
-<p>Android ADB Ready for Flutter</p>
-<hr></div>
-
-## <samp>FUNDINGS</samp>
-
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg"></a>
--->
-
 # <samp>ADBREADY</samp>
 
 Provides ready to use ADB binary for Android.
