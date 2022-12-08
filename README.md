@@ -10,7 +10,7 @@
 
 ## <samp>OVERVIEW</samp>
 
-Provide ready to use ADB binary for Android.
+Provides ready to use ADB binary for Android.
 
 ## <samp>COVERAGE</samp></h2>
 
