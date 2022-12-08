@@ -4,17 +4,17 @@
 <p>Android ADB Ready for Flutter</p>
 <hr></div>
 
-<h2><samp>OVERVIEW</samp></h2>
+## <samp>OVERVIEW</samp>
 
 Provide ready to use ADB binary for Android.
 
-<h2><samp>COVERAGE</samp></h2>
+## <samp>COVERAGE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
 
-<h2><samp>EXAMPLES</samp></h2>
+## <samp>EXAMPLES</samp></h2>
 
 ### Update Package from Git
 
@@ -36,5 +36,3 @@ final command = ['-s', address, 'shell', 'getprop ro.product.model'];
 final process = await Adbready().invoke(command)
 final product = process.stdout;
 ```
-
-Check out [the unit tests](tests) for more examples.
