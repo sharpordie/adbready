@@ -1,3 +1,4 @@
+<!--
 <div><hr>
 <a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
 <h1>ADBREADY</h1>
@@ -7,8 +8,9 @@
 ## <samp>FUNDINGS</samp>
 
 <a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg"></a>
+-->
 
-## <samp>OVERVIEW</samp>
+# <samp>ADBREADY</samp>
 
 Provides ready to use ADB binary for Android.
 
