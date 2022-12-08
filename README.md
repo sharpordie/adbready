@@ -4,6 +4,10 @@
 <p>Android ADB Ready for Flutter</p>
 <hr></div>
 
+## <samp>FUNDINGS</samp>
+
+<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg"></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="2%"/><a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/patreon.svg"></a>
+
 ## <samp>OVERVIEW</samp>
 
 Provide ready to use ADB binary for Android.
@@ -13,10 +17,6 @@ Provide ready to use ADB binary for Android.
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
-
-## <samp>FUNDINGS</samp>
-
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg"></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="2%"/><a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/patreon.svg"></a>
 
 ## <samp>EXAMPLES</samp></h2>
 
