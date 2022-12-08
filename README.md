@@ -32,7 +32,7 @@ flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 final starter = await Adbready().deploy();
 ```
 
-### Gather Product Model from Device
+### Invoke ADB Command
 
 ```dart
 final address = '192.168.1.10';
