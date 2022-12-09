@@ -8,10 +8,10 @@ Provides ready to use ADB binary for Android.
 ## <samp>STARTER</samp></h2>
 -->
 
-## PREVIEW
-## DEVICES
-## FACTORS
-## PREFACE
+PREVIEW
+DEVICES
+FACTORS
+PREFACE
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
