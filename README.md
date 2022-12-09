@@ -5,11 +5,11 @@ Provides ready to use ADB binary for Android.
 ## <samp>SYSTEMS</samp></h2>
 ## <samp>SAMPLES</samp></h2>
 ## <samp>RUNNING</samp></h2>
-## <samp>SPARKLE</samp></h2>
+## <samp>TARGETS</samp></h2>
 ## <samp>###</samp></h2>
 ## <samp>GALLERY</samp></h2>
 ## <samp>STARTER</samp></h2>
-## <samp>EXAMPLE</samp></h2>
+## <samp>SPARKLE</samp></h2>
 
 ## <samp>COVERAGE</samp></h2>
 
