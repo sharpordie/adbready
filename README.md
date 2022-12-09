@@ -8,6 +8,7 @@ Provides ready to use ADB binary for Android.
 ## <samp>###</samp></h2>
 ## <samp>GALLERY</samp></h2>
 ## <samp>STARTER</samp></h2>
+## <samp>EXAMPLE</samp></h2>
 
 ## <samp>COVERAGE</samp></h2>
 
