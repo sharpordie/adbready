@@ -17,8 +17,7 @@ Provides ready to use ADB binary for Android.
 ## <samp>STARTING</samp></h2>
 ## <samp>PICTURES</samp></h2>
 ## <samp>ADDITION</samp></h2>
-## <samp>EXAMPLES</samp></h2>
-## <samp>SPECIMEN</samp></h2>
+## <samp>GUIDANCE</samp></h2>
 ## <samp>###</samp></h2>
 ## ~~<samp>ADDENDUM</samp></h2>~~
 ## <samp>COVERAGE</samp></h2>
