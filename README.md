@@ -10,12 +10,8 @@ Provides ready to use ADB binary for Android.
 
 ## PREVIEW
 ## SUPPORT
+## FACTORS
 ## PREFACE
-
-## <samp>PREVIEW</samp></h2>
-## <samp>FACTORS</samp></h2>
-## <samp>PREVIEW</samp></h2>
-## <samp>PREFACE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
