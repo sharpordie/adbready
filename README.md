@@ -17,6 +17,7 @@ Provides ready to use ADB binary for Android.
 ## <samp>PICTURES</samp></h2>
 ## <samp>ADDITION</samp></h2>
 ## <samp>###</samp></h2>
+## <samp>MOREOVER</samp></h2>
 ## <samp>COVERAGE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
