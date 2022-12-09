@@ -2,6 +2,7 @@
 
 Provides ready to use ADB binary for Android.
 
+## <samp>PREFACE</samp></h2>
 ## <samp>PREVIEW</samp></h2>
 ## <samp>SCREENS</samp></h2>
 ## <samp>STARTER</samp></h2>
