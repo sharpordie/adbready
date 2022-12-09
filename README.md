@@ -4,6 +4,8 @@ Provides ready to use ADB binary for Android.
 
 ## <samp>SYSTEMS</samp></h2>
 ## <samp>SAMPLES</samp></h2>
+## <samp>COMMAND</samp></h2>
+## <samp>###</samp></h2>
 ## <samp>GALLERY</samp></h2>
 ## <samp>STARTER</samp></h2>
 
