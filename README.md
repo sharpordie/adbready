@@ -8,6 +8,8 @@ Provides ready to use ADB binary for Android.
 ## <samp>STARTER</samp></h2>
 -->
 
+## <samp>ADAPTED</samp></h2>
+
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
