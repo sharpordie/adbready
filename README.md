@@ -10,7 +10,7 @@ Provides ready to use ADB binary for Android.
 ## <samp>SUPPORT</samp></h2>
 ## <samp>###</samp></h2>
 ## <samp>GALLERY</samp></h2>
-## <samp>DEVICES</samp></h2>
+## ~~<samp>DEVICES</samp></h2>~~
 ## <samp>STARTER</samp></h2>
 ## <samp>SPARKLE</samp></h2>
 ## <samp>###</samp></h2>
@@ -18,7 +18,7 @@ Provides ready to use ADB binary for Android.
 ## <samp>PICTURES</samp></h2>
 ## <samp>ADDITION</samp></h2>
 ## <samp>###</samp></h2>
-## <samp>ADDENDUM</samp></h2>
+## ~~<samp>ADDENDUM</samp></h2>~~
 ## <samp>COVERAGE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
