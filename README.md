@@ -2,6 +2,11 @@
 
 Provides ready to use ADB binary for Android.
 
+## <samp>SYSTEMS</samp></h2>
+## <samp>SAMPLES</samp></h2>
+## <samp>GALLERY</samp></h2>
+## <samp>STARTER</samp></h2>
+
 ## <samp>COVERAGE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
