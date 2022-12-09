@@ -9,7 +9,7 @@ Provides ready to use ADB binary for Android.
 -->
 
 ## PREVIEW
-## SUPPORT
+## TARGETS
 ## FACTORS
 ## PREFACE
 
