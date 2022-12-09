@@ -4,18 +4,16 @@ Provides ready to use ADB binary for Android.
 
 ## <samp>PREVIEW</samp></h2>
 ## <samp>SCREENS</samp></h2>
+## <samp>STARTER</samp></h2>
 ## <samp>###</samp></h2>
 ## <samp>SYSTEMS</samp></h2>
-## ~~<samp>PREVIEW</samp></h2>~~
 ## <samp>SAMPLES</samp></h2>
 ## <samp>EXAMPLE</samp></h2>
 ## <samp>RUNNING</samp></h2>
-## <samp>RESOLVE</samp></h2>
 ## <samp>TARGETS</samp></h2>
 ## <samp>SUPPORT</samp></h2>
 ## <samp>###</samp></h2>
 ## <samp>GALLERY</samp></h2>
-## ~~<samp>DEVICES</samp></h2>~~
 ## <samp>STARTER</samp></h2>
 ## <samp>SPARKLE</samp></h2>
 ## <samp>###</samp></h2>
