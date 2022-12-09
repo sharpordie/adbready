@@ -4,7 +4,6 @@ Provides ready to use ADB binary for Android.
 
 ## <samp>PREFACE</samp></h2>
 ## <samp>PREVIEW</samp></h2>
-## <samp>ABILITY</samp></h2>
 ## <samp>STARTER</samp></h2>
 ## <samp>###</samp></h2>
 ## <samp>SYSTEMS</samp></h2>
