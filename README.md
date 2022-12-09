@@ -9,6 +9,8 @@ Provides ready to use ADB binary for Android.
 -->
 
 ## <samp>SUPPORT</samp></h2>
+## <samp>PREVIEW</samp></h2>
+## <samp>EXAMPLE</samp></h2>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
