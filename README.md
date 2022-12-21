@@ -14,11 +14,13 @@ Provides ready to use ADB binary for Android.
 
 ## <samp>PREVIEW</samp></h2>
 
+<!--
 ### Update Package from Git
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 ```
+-->
 
 ### Gather ADB Path
 
