@@ -1,3 +1,4 @@
+
 # <samp>ADBREADY</samp>
 
 Provides ready to use ADB binary for Android.
