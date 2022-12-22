@@ -1,26 +1,22 @@
-## <samp>ADBREADY</samp>
-
-Provides ready to use ADB binary for Android.
-
-**Supported Platforms**
+**Supported platforms**
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
 
-**Update Package from Git**
+**Update package from git**
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 ```
 
-**Gather ADB Path**
+**Gather executable path**
 
 ```dart
 final starter = await Adbready().deploy();
 ```
 
-**Invoke ADB Command**
+**Invoke command to target**
 
 ```dart
 final address = '192.168.1.10';
