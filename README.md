@@ -6,19 +6,19 @@
 
 # <samp>GUIDANCE</samp>
 
-## Update package from git
+### Update package from git
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
 ```
 
-## Gather executable path
+### Gather executable path
 
 ```dart
 final starter = await Adbready().deploy();
 ```
 
-## Invoke command to target
+### Invoke command to target
 
 ```dart
 final address = '192.168.1.10';
