@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 # <samp>GUIDANCE</samp>
 
-### Update package from git
+### Update from repository
 
 ```shell
 flutter pub add adbready --git-url https://github.com/sharpordie/adbready
@@ -27,4 +27,16 @@ final address = '192.168.1.10';
 final command = ['-s', address, 'shell', 'getprop ro.product.model'];
 final process = await Adbready().invoke(command)
 final product = process.stdout;
+```
+
+# <samp>FUNDINGS</samp>
+
+Support my work by sending me some crypto.
+
+```txt
+ADA: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+BCH: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+BTC: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ETH: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XMR: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
